@@ -1,7 +1,7 @@
 # Code_Refactor
 
 HTML:
--Changed all <div> tags to corresponding<semantic> tags
+Changed all <div> tags to corresponding<semantic> tags
 
 Changed <div class="header"> to <div header="header">
 Under header, changed <div> to <nav>
