@@ -1,8 +1,9 @@
 # Code_Refactor
 
 
-<!-- HTML:
-Changed all <div> tags to corresponding<semantic> tags
+# HTML:
+
+(Changed all <div> tags to corresponding<semantic> tags)
 
 Changed <div class="header"> to <div header="header">
 Under header, changed <div> to <nav>
@@ -20,9 +21,10 @@ Changed <div class="benefits"> to <aside class="benefits">
 Changed all <div> benefits to <aside>
 Changed <div class> to <aside class> for each
 
-Changed <div class="footer"> to <footer class="footer"> -->
+Changed <div class="footer"> to <footer class="footer">
 
-CSS:
+# CSS:
+
 Consolidated benefit-lead, benefit-brand, and benefit-cost, as well as h3 and img tags
 
 Consolidated each img to .mainimg
