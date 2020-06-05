@@ -5,23 +5,33 @@
 
 Changed all &lt;div&gt; tags to corresponding &lt;semantic&gt; tags
 
-Changed <div class="header"> to <div header="header">
-Under header, changed <div> to <nav>
-Brought all <li></li> tags to the same line
+Changed &lt;div class="header"&gt; to &lt;div header="header"&gt;
 
-Changed <div class="hero"></div> to <figure class="hero"></figure>
+Under header, changed &lt;div&gt; to &lt;nav&gt;
 
-Changed <div class="content"> to <main class="content">
-Changed all <div id> tags to <article id> tags
-Added <article id="search-engine-optimization">
-Changed all <article class> to "offering"
-Added alt="" attributes to each <article>
-Added <mainimg> to <float> tags
-Changed <div class="benefits"> to <aside class="benefits">
-Changed all <div> benefits to <aside>
-Changed <div class> to <aside class> for each
+Brought all &lt;li&gt;&lt;/li&gt; tags to the same line
 
-Changed <div class="footer"> to <footer class="footer">
+Changed &lt;div class="hero"&gt;&lt;/div&gt; to &lt;figure class="hero"&gt;&lt;/figure&gt;
+
+Changed &lt;div class="content"&gt; to &lt;main class="content"&gt;
+
+Changed all &lt;div id&gt; tags to &lt;article id&gt; tags
+
+Added &lt;article id="search-engine-optimization"&gt;
+
+Changed all &lt;article class&gt; to "offering"
+
+Added alt="" attributes to each &lt;article&gt;
+
+Added &lt;mainimg&gt; to &lt;float&gt; tags
+
+Changed &lt;div class="benefits"&gt; to &lt;aside class="benefits"&gt;
+
+Changed all &lt;div&gt; benefits to &lt;section&gt;
+
+Changed &lt;div class&gt; to &lt;aside class&gt; for each
+
+Changed &lt;div class="footer"&gt; to &lt;footer class="footer"&gt;
 
 # CSS:
 
