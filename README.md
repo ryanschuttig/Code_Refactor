@@ -31,6 +31,8 @@ Changed all &lt;div&gt; benefits to &lt;section&gt;
 
 Changed &lt;div class&gt; to &lt;aside class&gt; for each
 
+Removed &lt;/img&gt; tag
+
 Changed &lt;div class="footer"&gt; to &lt;footer class="footer"&gt;
 
 # CSS:
